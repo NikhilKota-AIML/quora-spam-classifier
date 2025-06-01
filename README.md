@@ -10,11 +10,10 @@ Model Overview:
 - Dense output layer with Sigmoid
 Trained using binary cross-entropy loss and Adam optimizer.
 Performance:
-| Metric            | Value     |
-|-------------------|-----------|
-| Train Accuracy     | 95.56%    |
-| Validation Accuracy| 95.69%    |
-| Validation Loss    | 0.1111    |
+-Metric              Value     
+-Train Accuracy      95.56%
+-Validation Accuracy 95.69%
+-Validation Loss     0.1111
 Files:
 - quora_spam_classifier.ipynb - Full Colab notebook
 - quora_spam_model.h5 - Trained model
