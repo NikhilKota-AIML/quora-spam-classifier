@@ -24,3 +24,5 @@ Download "train.csv" and "glove.6B.100d.txt" from Google Drive links above.
 Upload them to your Google Colab environment.
 Open and run "quora_spam_classifier.ipynb" step by step.
 Final model will be saved as "quora_spam_model.h5".
+Created by Nikhil Kota  
+Email: kotanikhil97@gmail.com
