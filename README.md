@@ -1,4 +1,5 @@
 # Quora Spam Classifier
+Welcome to my first deep learning project! 
 This project builds a deep learning model using LSTM to detect spam questions on Quora using text data and pre-trained word embeddings.
 Due to GitHub file size limits, download the required data here:
 https://drive.google.com/file/d/1haR6_QXX1oQ2QCFFAPQdDORTPwI4xm7H/view?usp=drive_link
